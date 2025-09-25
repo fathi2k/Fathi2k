@@ -6,7 +6,7 @@
 
 
 
-I am a self taugh developer, currently im still learning new frameworks, expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
+I am a self taugh developer, currently im still learning new thing every day, expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 
 <!-- Social Links -->
 <div align="center">
