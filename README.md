@@ -57,7 +57,7 @@ I am a self taugh developer, currently im still learning new frameworks, expandi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-<img align="right" width=310px alt="Unicorn" src="https://i.pinimg.com/originals/b0/1d/df/b01ddf257d18c8a9b41e0502161d580c.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://i.pinimg.com/originals/36/11/b3/3611b30d49752a0ed290a1458d5bbb03.gif"/>
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
