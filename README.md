@@ -18,7 +18,7 @@ I am a self taugh developer, currently im still learning new frameworks, expandi
 
 <br>
 <div align= "center">
-  <img align="center" "https://tenor.com/view/luffy-one-piece-gif-23767041"/>
+  <img align="center" "https://media1.tenor.com/m/mFDPXvyZT7IAAAAd/luffy-one-piece.gif"/>
 </div>
 
 
