@@ -12,8 +12,8 @@ I am a self taugh developer, currently im still learning new frameworks, expandi
 - 🚀 I’m eager to work on new projects.
   - *Creating an a Assistan AI: A.L.I.C.E.*
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="fathisyameer22@gmail.com">leonardobravoricapa@gmail.com</a>
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music.
+- 📫 Reach out to me at: <a href="fathisyameer22@gmail.com">fathisyameer22@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
