@@ -2,11 +2,11 @@
 <h1><b>Hi, <a href="https://github.com/Fathi2k">Fathi</a> here </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-
+ <--<img src = "https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif"  height ="50" width = 35>&nbsp;***About me***-->
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- <img src = "https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif"  height ="50" width = 35>&nbsp;***About me*** 
+ 
 I am a self taugh developer, currently im still learning new thing every day, expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 
 <!-- Social Links -->
