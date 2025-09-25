@@ -2,7 +2,7 @@
 <h1><b>Hi, <a href="https://github.com/Fathi2k">Fathi</a> here </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://tenor.com/view/luffy-one-piece-gif-23767041" width = 35>&nbsp;***About me***
 
 
 
