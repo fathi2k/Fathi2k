@@ -6,15 +6,14 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
+I am a self taugh developer, currently im still learning new frameworks, expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
   - *React.js*
-  - *Constraint Programming + Machine Learning*
 - 🚀 I’m eager to work on new projects.
   - *Creating an a Assistan AI: A.L.I.C.E.*
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+- 📫 Reach out to me at: <a href="fathisyameer22@gmail.com">leonardobravoricapa@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
