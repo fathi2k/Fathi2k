@@ -7,21 +7,6 @@
 <img align="right" width=200px alt="Unicorn" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-boy-7.gif"/>
 
 I am a self taugh developer, currently im still learning new frameworks, expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
-- 📚 I’m currently learning ...
-  - *React.js*
-- 🚀 I’m eager to work on new projects.
-  - *Creating an a Assistan AI: A.L.I.C.E.*
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music.
-- 📫 Reach out to me at: <a href="fathisyameer22@gmail.com">fathisyameer22@gmail.com</a>
-<br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
 
 <!-- Social Links -->
 <div align="center">
